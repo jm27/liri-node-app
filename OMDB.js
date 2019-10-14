@@ -1,8 +1,6 @@
 let axios = require("axios");
 
-let moment = require("moment");
-
-//This will search the Bands in Town Artist Events API
+//This will search the OMDB API
 
 let OMDB = function () {
     this.findMovie = function (movie) {
