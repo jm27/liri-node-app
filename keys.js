@@ -1,5 +1,4 @@
 
-js
 console.log('this is loaded');
 
 exports.spotify = {
@@ -9,4 +8,4 @@ exports.spotify = {
 //http://www.omdbapi.com/?i=tt3896198&apikey=39d549a4
 exports.omdb = {
     key: "39d549a4"
-}
+};
