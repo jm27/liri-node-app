@@ -1,14 +1,13 @@
 // Add code to read and set any environment variables with the dotenv package
-//require("dotenv").config();
+require("dotenv").config();
 
 // import the `keys.js` file and store it in a variable.
 // Spotify API call
 let keys = require("./keys.js");
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
-let axios = require("axios");
-//let spo = require("./spotify");
-//let SpoSong = new Spotifycall();
+
+let fs = require("fs");
 let BiT = require("./BIT");
 let bit = new BiT();
 let OMDB = require("./OMDB");
@@ -17,8 +16,33 @@ let search = process.argv[2];
 let term = process.argv.slice(3).join(" ");
 
 
+
+///### BONUS
+// Next we append the text into the "log.txt" file.
+
+const appendFile = function(text) {
+  fs.appendFile("log.txt", text, function(err) {
+  
+    // If an error was experienced we will log it.
+    if (err) {
+      console.log(err);
+    }
+  
+    // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+    else {
+      console.log("Content Added!");
+    }
+  
+  });
+  
+  };
+// const readFile = function(){
+//   // This block of code will read from the "random.txt" file.
+
+// });
+// };
 // function to make Call to Spotify and return result
-findSong = function (song) {
+const findSong = function (song) {
   spotify
     .search({ type: 'track', query: song })
     .then(function (response) {
@@ -30,19 +54,19 @@ findSong = function (song) {
         "Song preview link: " + data.album.external_urls.spotify,
         "Album:  " + data.album.name,
       ].join("\n\n");
-      console.log(songData);
+      console.log(process.argv);
+      appendFile(process.argv);
+      appendFile(songData);
     })
     .catch(function (err) {
       console.log(err);
     });
 };
 
-
-
 // if input = concert this, connect to bands in town API and display Results
 if (search === "concert-this") {
   console.log("Searching for Bands in Town!");
-  bit.findBand(term)
+  bit.findBand(term);
 }
 
 // if input = spotify-this-song, search for song in API and display Results
@@ -66,8 +90,31 @@ else if (search === "movie-this") {
     omdb.findMovie("Mr._Nobody");
   };
 }
+
+// If  input = do what it says read "random.txt" and run it on findSong()
 else if (search === "do-what-it-says") {
   console.log("Do what it says!");
-  bit.findBand(term)
+  fs.readFile("random.txt", "utf8", function(error, data) {
+
+    // If the code experiences any errors it will log the error to the console.
+    if (error) {
+      return console.log(error);
+    }
+  
+    // We will then print the contents of data
+    console.log(data);
+  
+    // Then split it by commas (to make it more readable)
+    var dataArr = data.split(",");
+  
+    // We will then re-display the content as an array for later use.
+    console.log(dataArr);
+    findSong(dataArr[1]);
+  
+  });
+  
+   
 }
 ;
+
+

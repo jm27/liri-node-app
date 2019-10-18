@@ -1,0 +1,85 @@
+Artist:  Thomas Rhett
+
+Song Name: Die A Happy Man
+
+Song preview link: https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy
+
+Album:  Tangled UpArtist:  Lil Uzi Vert
+
+Song Name: XO Tour Llif3
+
+Song preview link: https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE
+
+Album:  Luv Is Rage 2rageArtist:  Lil Uzi Vert
+
+Song Name: XO Tour Llif3
+
+Song preview link: https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE
+
+Album:  Luv Is Rage 2moneyArtist:  Drake
+
+Song Name: Money In The Grave (Drake ft. Rick Ross)
+
+Song preview link: https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4
+
+Album:  The Best In The World PackmoneytimetimeArtist:  Lana Del Rey
+
+Song Name: Doin' Time
+
+Song preview link: https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A
+
+Album:  Norman Fucking Rockwell!loveArtist:  Lizzo
+
+Song Name: Truth Hurts
+
+Song preview link: https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB
+
+Album:  Cuz I Love You (Deluxe)Artist:  $uicideBoy$
+
+Song Name: Obey The Walrus
+
+Song preview link: https://open.spotify.com/album/4ZoZXbJUwQafzW7wsjyeLf
+
+Album:  DIRTIERNASTIER$UICIDEArtist:  Tyler, The Creator
+
+Song Name: PUPPET
+
+Song preview link: https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE
+
+Album:  IGORC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,whenArtist:  Billie Eilish
+
+Song Name: when the party's over
+
+Song preview link: https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh
+
+Album:  WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?undefinedundefinedundefinedundefinedundefinedName Of Venue:  Moda Center
+
+Venue Location: Portland, OR
+
+Date Of The Event: Oct 19th 19C:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,concert-this,ice,cubeC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,movie-this,ringsName Of Movie:  Rings
+
+Release Date: 03 Feb 2017
+
+IMDB Rating: 4.5
+
+Rotten Tomatoes Rating: undefined
+
+Country Of Production: USA
+
+Language: English
+
+Plot: A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in 7 days.
+
+Actors: Matilda Anna Ingrid Lutz, Alex Roe, Johnny Galecki, Vincent D'OnofrioC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,movie-this,ringsC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,do-what-it-saysArtist:  Bryson Tiller
+
+Song Name: Don't
+
+Song preview link: https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl
+
+Album:  T R A P S O U LC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,do-what-it-saysArtist:  Backstreet Boys
+
+Song Name: I Want It That Way
+
+Song preview link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+Album:  The Hits--Chapter One
