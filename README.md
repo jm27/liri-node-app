@@ -13,19 +13,22 @@ LIRI is divided into four JavaScript files(BIT.js, key.js, liri.js, OMDB.js). Co
 First in order to run the app you must be sure that you have installed the node modules that are needed to run the app.
 
 Type: "npm-init", inside folder's terminal/bash window.
+
 ![NPM-INIT](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-init.png "1")
 
-#####NOTE: CLICK ENTER THROUGHOUT PROMPT UNTIL COMMAND LINE RE-STARTS.
+####NOTE: CLICK ENTER THROUGHOUT PROMPT UNTIL COMMAND LINE RE-STARTS.
 
 
-Then type: "npm install" and make sure all dependencies are installed inside package.json file(axios, dotenv, fs, moment, node-spotify-api)
+Then type: "npm install" and make sure all dependencies are installed inside package.json file(axios, dotenv, fs, moment, node-spotify-api).
+
 ![NPM-INSTALL](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-install.png "2")
 
 
-If any of the dependencies are missing you can just type inside folder's terminal/bash window: "npm install axios" . Change "axios" for each dependency that the app is missing.
+If any of the dependencies are missing you can just type inside folder's terminal/bash window: "npm install axios" . 
 
 ![NPM-INSTALL-AXIOS](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-install-axios.png "3")
 
+####NOTE: Change "axios" for each dependency that the app is missing.(axios, dotenv, fs, moment, node-spotify-api).
 
 LIRI is able to tell the user the result of a command typed inside the folders terminal/bash window,
 
