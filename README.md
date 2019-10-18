@@ -99,3 +99,5 @@ LIRI has the following optional commands:
 # Technologies
 
 LIRI app was written inside a Javascript file, it uses node.js and npm modules libraries to run.
+
+LIRI communicates to Bands in Town, Spotify and OMDB APIs.
