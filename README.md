@@ -24,7 +24,7 @@ Then type: "npm install" and make sure all dependencies are installed inside pac
 
 If any of the dependencies are missing you can just type inside folder's terminal/bash window: "npm install axios" . Change "axios" for each dependency that the app is missing.
 
-![NPM-INSTALL-AXIOS](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-install-Axios.png "3")
+![NPM-INSTALL-AXIOS](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-install-axios.png "3")
 
 
 LIRI is able to tell the user the result of a command typed inside the folders terminal/bash window,
