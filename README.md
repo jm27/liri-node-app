@@ -15,10 +15,16 @@ First in order to run the app you must be sure that you have installed the node 
 Type: "npm-init", inside folder's terminal/bash window.
 ![NPM-INIT](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-init.png "1")
 
+#####NOTE: CLICK ENTER THROUGHOUT PROMPT UNTIL COMMAND LINE RE-STARTS.
+
 
 Then type: "npm install" and make sure all dependencies are installed inside package.json file(axios, dotenv, fs, moment, node-spotify-api)
+![NPM-INSTALL](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-install.png "2")
+
 
 If any of the dependencies are missing you can just type inside folder's terminal/bash window: "npm install axios" . Change "axios" for each dependency that the app is missing.
+
+![NPM-INSTALL-AXIOS](https://github.com/jm27/liri-node-app/blob/master/imgs/npm-install-Axios.png "3")
 
 
 LIRI is able to tell the user the result of a command typed inside the folders terminal/bash window,
@@ -26,6 +32,9 @@ LIRI is able to tell the user the result of a command typed inside the folders t
 LIRI has the following optional commands:
 
 1. `node liri.js concert-this <artist/band name here>`
+
+![CONCERT-THIS](https://github.com/jm27/liri-node-app/blob/master/imgs/concert-this.png "4")
+
 
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
@@ -36,6 +45,9 @@ LIRI has the following optional commands:
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 2. `node liri.js spotify-this-song '<song name here>'`
+
+![SPOTIFY-THIS](https://github.com/jm27/liri-node-app/blob/master/imgs/spotify-this.png "5")
+
 
    * This will show the following information about the song in your terminal/bash window
 
@@ -50,6 +62,8 @@ LIRI has the following optional commands:
    * If no song is provided then it will default to "Wish you were here" by Pink Floyd.
 
 3. `node liri.js movie-this '<movie name here>'`
+
+![MOVIE-THIS](https://github.com/jm27/liri-node-app/blob/master/imgs/movie-this.png "6")
 
    * This will output the following information to your terminal/bash window:
 
@@ -68,6 +82,9 @@ LIRI has the following optional commands:
 
 4. `node liri.js do-what-it-says`
 
+![DO-WHAT-IT-SAYS](https://github.com/jm27/liri-node-app/blob/master/imgs/do-what-it-says.png "7")
+
+
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
@@ -76,12 +93,6 @@ LIRI has the following optional commands:
 
 * In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
-
-4. Include screenshots, gifs or videos of the app functioning
-5. Contain a link to a deployed version of the app
-
-
 # Technologies
 
 LIRI app was written inside a Javascript file, it uses node.js and npm modules libraries to run.
-7. State your role in the app development
