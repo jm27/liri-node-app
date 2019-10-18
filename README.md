@@ -1,17 +1,19 @@
-======liri-node-app
+liri-node-app
+======
+
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
-======[LIRI_NODE-APP GITHUB LINK](https://github.com/jm27/liri-node-app "LIRI's REPO Homepage")
-
+[LIRI_NODE-APP GITHUB LINK](https://github.com/jm27/liri-node-app "LIRI's REPO Homepage")
+======
 
 LIRI is divided into four JavaScript files(BIT.js, key.js, liri.js, OMDB.js). Contains a .env file and a .gitignore file. A random.txt file and a log.txt file. Also a folder named imgs with screenshoots of the app working and instructions. All inside a folder called liri-node-app.
 
-# Instructions,
+# Instructions
 
 First in order to run the app you must be sure that you have installed the node modules that are needed to run the app.
 
 Type: "npm-init", inside folder's terminal/bash window.
-![NPM-INIT](/imgs/node-init.png "1")
+![NPM-INIT](https://github.com/jm27/liri-node-app/imgs/node-init.png "1")
 
 
 Then type: "npm install" and make sure all dependencies are installed inside package.json file(axios, dotenv, fs, moment, node-spotify-api)
