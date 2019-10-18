@@ -6,7 +6,6 @@ require("dotenv").config();
 let keys = require("./keys.js");
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
-
 let fs = require("fs");
 let BiT = require("./BIT");
 let bit = new BiT();
@@ -54,7 +53,7 @@ const findSong = function (song) {
         "Song preview link: " + data.album.external_urls.spotify,
         "Album:  " + data.album.name,
       ].join("\n\n");
-      console.log(process.argv);
+      console.log(songData);
       appendFile(process.argv);
       appendFile(songData);
     })

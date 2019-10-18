@@ -82,4 +82,32 @@ Song Name: I Want It That Way
 
 Song preview link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 
-Album:  The Hits--Chapter One
+Album:  The Hits--Chapter OneName Of Venue:  Mt Smart Stadium
+
+Venue Location: Auckland, 
+
+Date Of The Event: Nov 2nd 19C:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,concert-this,metalicaArtist:  Foo Fighters
+
+Song Name: The Pretender
+
+Song preview link: https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz
+
+Album:  Echoes, Silence, Patience & GraceC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,echoesArtist:  Pink Floyd
+
+Song Name: Wish You Were Here
+
+Song preview link: https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw
+
+Album:  Wish You Were HereC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,pink,floydC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,wish,you,were,hereArtist:  Pink Floyd
+
+Song Name: Wish You Were Here
+
+Song preview link: https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw
+
+Album:  Wish You Were HereArtist:  Pink Floyd
+
+Song Name: Wish You Were Here
+
+Song preview link: https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw
+
+Album:  Wish You Were HereC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,wish,you,were,here
