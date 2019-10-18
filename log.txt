@@ -110,4 +110,74 @@ Song Name: Wish You Were Here
 
 Song preview link: https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw
 
-Album:  Wish You Were HereC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,wish,you,were,here
+Album:  Wish You Were HereC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,wish,you,were,hereName Of Venue:  Moda Center
+
+Venue Location: Portland, OR
+
+Date Of The Event: Oct 19th 19C:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,concert-this,ice,cubeArtist:  King Kyle Lee
+
+Song Name: Today Was A Good Day
+
+Song preview link: https://open.spotify.com/album/0496TO9mU05Hr7UjTS26lv
+
+Album:  A New Beginning - The Mixtape Monster EditionC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,today,was,a,good,dayC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,good,dayArtist:  Ice Cube
+
+Song Name: It Was A Good Day
+
+Song preview link: https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46
+
+Album:  The PredatorArtist:  Ice Cube
+
+Song Name: It Was A Good Day
+
+Song preview link: https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46
+
+Album:  The PredatorC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,spotify-this-song,good,dayC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,movie-this,eyes,wide,shutName Of Movie:  Eyes Wide Shut
+
+Release Date: 16 Jul 1999
+
+IMDB Rating: 7.4
+
+Rotten Tomatoes Rating: undefined
+
+Country Of Production: UK, USA
+
+Language: English
+
+Plot: A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.
+
+Actors: Tom Cruise, Nicole Kidman, Madison Eginton, Jackie SawirisC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,movie-this,eyes,wide,shutName Of Movie:  Eyes Wide Shut
+
+Release Date: 16 Jul 1999
+
+IMDB Rating: 7.4
+
+Rotten Tomatoes Rating: undefined
+
+Country Of Production: UK, USA
+
+Language: English
+
+Plot: A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.
+
+Actors: Tom Cruise, Nicole Kidman, Madison Eginton, Jackie SawirisC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,movie-this,eyes,wide,shutName Of Movie:  Eyes Wide Shut
+
+Release Date: 16 Jul 1999
+
+IMDB Rating: 7.4
+
+Rotten Tomatoes Rating: undefined
+
+Country Of Production: UK, USA
+
+Language: English
+
+Plot: A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.
+
+Actors: Tom Cruise, Nicole Kidman, Madison Eginton, Jackie SawirisC:\Program Files\nodejs\node.exe,C:\Users\jme27\Desktop\Bootcamp\repos\homework\liri-node-app\liri.js,do-what-it-saysArtist:  Backstreet Boys
+
+Song Name: I Want It That Way
+
+Song preview link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+Album:  The Hits--Chapter One
